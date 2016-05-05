@@ -6,7 +6,7 @@ echo "Hello";
 echo "Hi";
 echo "Chnage on a paritcular commit and create a new branch";
 
-test of the line
+test of the line in second repository
 echo "test";
 change on the first repository 
 ?>
