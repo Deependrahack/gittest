@@ -7,6 +7,5 @@ echo "Hi";
 echo "Chnage on a paritcular commit and create a new branch";
 
 test of the line
->>>>>>> test
 echo "test";
 ?>
