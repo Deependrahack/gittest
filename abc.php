@@ -1,4 +1,4 @@
 <?php
-echo "Hello";
+print_r("Hello");
 echo "Hi";
 ?>
